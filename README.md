@@ -1,0 +1,2 @@
+# WorldCashier
+Simulador intercambio 
